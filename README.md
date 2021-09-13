@@ -1,6 +1,6 @@
 ## Alban Gossard
 
-Welcome to my personal webpage. I put here some information about my [research](https://github.com/albangossard/albangossard.github.io/research.md), [teaching](https://github.com/albangossard/albangossard.github.io/teaching.md) and [other stuff I want to share](https://github.com/albangossard/albangossard.github.io/blog.md).
+Welcome to my personal webpage. I put here some information about my [research](https://albangossard.github.io/research.md), [teaching](https://albangossard.github.io/teaching.md) and [other stuff I want to share](https://albangossard.github.io/blog.md).
 
 ### About
 
@@ -25,7 +25,7 @@ Recently I co-founded the Opteromys association (more information soon).
 
 [<img src="email.png" alt="" />](https://www.albangossard.com/redirect-mailto.php)
 
-Office 120 - Département de Mathématiques
-INSA Toulouse
-135 avenue de Rangueil
+Office 120 - Département de Mathématiques<br />
+INSA Toulouse<br />
+135 avenue de Rangueil<br />
 31400 Toulouse

@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Alban Gossard
 
-You can use the [editor on GitHub](https://github.com/albangossard/albangossard.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal webpage. I put here some information about my [research](https://github.com/albangossard/albangossard.github.io/research.md), [teaching](https://github.com/albangossard/albangossard.github.io/teaching.md) and [other stuff I want to share](https://github.com/albangossard/albangossard.github.io/blog.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alban-gossard/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/albangossard/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a PhD student under the supervision of Pierre Weiss and Frédéric de Gournay.
 
-```markdown
-Syntax highlighted code block
+I received a master's degree in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
+I also graduated from INSA Toulouse in Applied Mathematics (numerical modelization and image processing) in 2019.
 
-# Header 1
-## Header 2
-### Header 3
+#### Volunteer experience
 
-- Bulleted
-- List
+Involved in the university's fablab [Fabric'INSA](http://www.fabric-insa.fr) since 2017.
 
-1. Numbered
-2. List
+Former president of the [Gamma association](https://etud.insa-toulouse.fr/~gamma/)
 
-**Bold** and _Italic_ and `Code` text
+Recently I co-founded the Opteromys association (more information soon).
 
-[Link](url) and ![Image](src)
-```
+#### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[<img src="email.png" alt="" />](https://www.albangossard.com/redirect-mailto.php)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/albangossard/albangossard.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Office 120 - Département de Mathématiques
+INSA Toulouse
+135 avenue de Rangueil
+31400 Toulouse

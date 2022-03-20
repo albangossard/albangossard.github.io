@@ -27,9 +27,10 @@ Recently I co-founded the Opteromys association (more information soon).
 
 - iTWIST, 2020, Nantes. Off-the-grid data-driven optimization of sampling schemes in MRI. With Frédéric de Gournay & Pierre Weiss. [PDF](https://arxiv.org/abs/2010.01817)
 
-#### Pre-print
+#### Pre-prints
 
 - Spurious minimizers in non uniform Fourier sampling optimization. With Frédéric de Gournay & Pierre Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03212145/file/main.pdf)
+- Training Adaptive Reconstruction Networks for Inverse Problems. With Pierre Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v2/document)
 
 
 ### Teaching
@@ -74,7 +75,8 @@ Recently I co-founded the Opteromys association (more information soon).
 
 ##### CNN for inverse problems and unrolled approaches
 
-Content will be published in a few weeks.
+6 hours practical course on inverse problems and unrolled approaches.
+[Github repository](https://github.com/albangossard/Course-inverse-problems-and-unrolled-networks)
 
 #### VALDOM
 

@@ -8,30 +8,40 @@ Welcome to my personal webpage. I put here some information about my research, t
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/albangossard/)
 
-I'm a PhD student under the supervision of Pierre Weiss and Frédéric de Gournay.
+I'm a PhD student under the supervision of Pierre Weiss and Frédéric de Gournay working primarly on inverse problems, optimization and neural networks.
 
 I received a master's degree in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
 I also graduated from INSA Toulouse in Applied Mathematics (numerical modelization and image processing) in 2019.
 
-**Volunteer experience**
-
-Involved in the university's fablab [Fabric'INSA](http://www.fabric-insa.fr) since 2017.
-
-Former president of the [Gamma association](https://etud.insa-toulouse.fr/~gamma/)
-
-Recently I co-founded the Opteromys association (more information soon).
-
 ### Research
-
-#### Conference paper
-
-- iTWIST, 2020, Nantes. Off-the-grid data-driven optimization of sampling schemes in MRI. With Frédéric de Gournay & Pierre Weiss. [PDF](https://arxiv.org/abs/2010.01817)
 
 #### Pre-prints
 
 - Spurious minimizers in non uniform Fourier sampling optimization. With Frédéric de Gournay & Pierre Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03212145/file/main.pdf)
 - Training Adaptive Reconstruction Networks for Inverse Problems. With Pierre Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v2/document)
 
+#### Conference papers
+
+- iTWIST, 2020, remote. Off-the-grid data-driven optimization of sampling schemes in MRI. With Frédéric de Gournay & Pierre Weiss. [PDF](https://arxiv.org/abs/2010.01817)
+
+#### Talks
+
+- SIAM Imaging Science 2022 remote, Learning to sample and reconstruct: computational issues and tricks.
+- EUROPT 2021, remote, Continuous optimization of Fourier sampling schemes for MRI.
+- iTWIST 2020, remote, Off-the-grid data-driven optimization of sampling schemes in MRI.
+
+#### Posters
+- Curves & Surfaces 2022, Arcachon
+- Séminaire doctorant de l'IMT, Toulouse
+
+
+### Volunteer experience
+
+Involved in the university's fablab [Fabric'INSA](http://www.fabric-insa.fr) since 2017.
+
+Former president of the [Gamma association](https://etud.insa-toulouse.fr/~gamma/)
+
+Recently I co-founded the Opteromys association (more information soon).
 
 ### Teaching
 

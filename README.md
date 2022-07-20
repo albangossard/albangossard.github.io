@@ -2,8 +2,9 @@
 
 <!-- Welcome to my personal webpage. I put here some information about my research, teaching and other stuff I want to share. -->
 
-[button url="README.md"](Homepage)
-[button url="teaching.md"](Teaching)
+<!-- [button url="README.md"](Homepage) -->
+<!-- ## [Homepage](README.md) [Teaching](teaching.md) -->
+<!-- <button name="button" onclick="teaching.md">Teaching</button> -->
 
 ### About
 

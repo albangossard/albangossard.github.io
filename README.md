@@ -21,12 +21,12 @@ I also graduated from INSA Toulouse in Applied Mathematics (numerical modelizati
 
 #### Preprints
 
-- *Training Adaptive Reconstruction Networks for Inverse Problems*</br>
+- *Training Adaptive Reconstruction Networks for Inverse Problems*<br>
 A. Gossard & P. Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v2/document)
 
 #### Journal papers
 
-- *Spurious minimizers in non uniform Fourier sampling optimization*</br>
+- *Spurious minimizers in non uniform Fourier sampling optimization*<br>
 A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal.archives-ouvertes.fr/hal-03212145/file/main.pdf)
 
 #### Conference papers

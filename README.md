@@ -15,24 +15,27 @@ I also graduated from INSA Toulouse in Applied Mathematics (numerical modelizati
 
 ### Research
 
-#### Pre-prints
+#### Preprints
 
-- Spurious minimizers in non uniform Fourier sampling optimization. With Frédéric de Gournay & Pierre Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03212145/file/main.pdf)
-- Training Adaptive Reconstruction Networks for Inverse Problems. With Pierre Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v2/document)
+- *Training Adaptive Reconstruction Networks for Inverse Problems*</br>
+A. Gossard & P. Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v2/document)
+
+#### Journal papers
+
+- *Spurious minimizers in non uniform Fourier sampling optimization*</br>
+A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal.archives-ouvertes.fr/hal-03212145/file/main.pdf)
 
 #### Conference papers
 
-- iTWIST, 2020, remote. Off-the-grid data-driven optimization of sampling schemes in MRI. With Frédéric de Gournay & Pierre Weiss. [PDF](https://arxiv.org/abs/2010.01817)
+- iTWIST, 2020, remote. *Off-the-grid data-driven optimization of sampling schemes in MRI*. With Frédéric de Gournay & Pierre Weiss. [PDF](https://arxiv.org/abs/2010.01817)
 
-#### Talks
+#### Oral presentations
 
-- SIAM Imaging Science 2022 remote, Learning to sample and reconstruct: computational issues and tricks.
-- EUROPT 2021, remote, Continuous optimization of Fourier sampling schemes for MRI.
-- iTWIST 2020, remote, Off-the-grid data-driven optimization of sampling schemes in MRI.
-
-#### Posters
-- Curves & Surfaces 2022, Arcachon
-- Séminaire doctorant de l'IMT, Toulouse
+- Curves & Surfaces 2022, Arcachon, June 2022, *Spurious minimizers in non uniform Fourier sampling optimization*.
+- SIAM Imaging Science 2022, remote, March 2022, *Learning to sample and reconstruct: computational issues and tricks*.
+- Séminaire doctorant de l'IMT, Toulouse, March 2022, *Globalization approach for sampling scheme optimization in MRI*.
+- EUROPT 2021, remote, July 2021, *Continuous optimization of Fourier sampling schemes for MRI*.
+- iTWIST 2020, remote, December 2020, *Off-the-grid data-driven optimization of sampling schemes in MRI*.
 
 
 ### Volunteer experience

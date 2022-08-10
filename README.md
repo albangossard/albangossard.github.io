@@ -24,7 +24,7 @@ I also graduated from INSA Toulouse in Applied Mathematics (numerical modelizati
 - *Training Adaptive Reconstruction Networks for Inverse Problems*<br>
 A. Gossard & P. Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v2/document)
 
-- *Adaptive scaling of the learning rate by second order automatic differentiation*</br>
+- *Adaptive scaling of the learning rate by second order automatic differentiation*<br>
 A. Gossard & F. de Gournay. [PDF](https://hal.archives-ouvertes.fr/hal-03748574/document)
 
 #### Journal papers

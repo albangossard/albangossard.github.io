@@ -21,6 +21,9 @@ I also graduated from INSA Toulouse in Applied Mathematics (numerical modelizati
 
 #### Preprints
 
+- *Bayesian Optimization of Sampling Densities in MRI*<br>
+A. Gossard, F. de Gournay & P. Weiss. [PDF](https://arxiv.org/abs/2209.07170)
+
 - *Training Adaptive Reconstruction Networks for Inverse Problems*<br>
 A. Gossard & P. Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v2/document)
 

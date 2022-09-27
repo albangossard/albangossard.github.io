@@ -14,8 +14,8 @@
 
 I'm a PhD student under the supervision of Pierre Weiss and Frédéric de Gournay working primarly on inverse problems, optimization and neural networks.
 
-I received a master's degree in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
-I also graduated from INSA Toulouse in Applied Mathematics (numerical modelization and image processing) in 2019.
+I received a Master of Science in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
+I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling and image processing) in 2019.
 
 ### Research
 

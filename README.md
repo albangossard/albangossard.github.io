@@ -54,7 +54,8 @@ Involved in the university's fablab [Fabric'INSA](http://www.fabric-insa.fr) sin
 
 Former president of the [Gamma association](https://etud.insa-toulouse.fr/~gamma/)
 
-Recently I co-founded the Opteromys association (more information soon).
+Recently I co-founded the [Opteromys association](https://opteromys.github.io/).
+Opteromys is an association federating people interested in the development of low carbon emitting technologies for transportation.
 
 
 ### Contact

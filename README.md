@@ -24,16 +24,16 @@ I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling 
 - *Bayesian Optimization of Sampling Densities in MRI*<br>
 A. Gossard, F. de Gournay & P. Weiss. [PDF](https://arxiv.org/abs/2209.07170)
 
-- *Training Adaptive Reconstruction Networks for Inverse Problems*<br>
-A. Gossard & P. Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v2/document)
+- *Training Adaptive Reconstruction Networks for Blind Inverse Problems*<br>
+A. Gossard & P. Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v3/document)
 
 - *Adaptive scaling of the learning rate by second order automatic differentiation*<br>
-A. Gossard & F. de Gournay. [PDF](https://hal.archives-ouvertes.fr/hal-03748574/document)
+F. de Gournay & A. Gossard. [PDF](https://hal.archives-ouvertes.fr/hal-03748574v2/document)
 
 #### Journal papers
 
 - *Spurious minimizers in non uniform Fourier sampling optimization*<br>
-A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal.archives-ouvertes.fr/hal-03212145/file/main.pdf)
+A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal.archives-ouvertes.fr/hal-03212145v3/document)
 
 #### Conference papers
 

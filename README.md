@@ -12,7 +12,8 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/albangossard/)
 
-I'm a PhD student under the supervision of Pierre Weiss and Frédéric de Gournay working primarly on inverse problems, optimization and neural networks.
+I'm working at GoPro on deep learning and embedded image processing.
+I was previously a PhD student under the supervision of Pierre Weiss and Frédéric de Gournay, working primarly on inverse problems, optimization and neural networks.
 
 I received a Master of Science in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
 I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling and image processing) in 2019.
@@ -21,9 +22,6 @@ I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling 
 
 #### Preprints
 
-- *Bayesian Optimization of Sampling Densities in MRI*<br>
-A. Gossard, F. de Gournay & P. Weiss. [PDF](https://arxiv.org/abs/2209.07170)
-
 - *Training Adaptive Reconstruction Networks for Blind Inverse Problems*<br>
 A. Gossard & P. Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v3/document)
 
@@ -31,6 +29,9 @@ A. Gossard & P. Weiss. [PDF](https://hal.archives-ouvertes.fr/hal-03585120v3/doc
 F. de Gournay & A. Gossard. [PDF](https://hal.archives-ouvertes.fr/hal-03748574v2/document)
 
 #### Journal papers
+
+- *Bayesian Optimization of Sampling Densities in MRI*<br>
+A. Gossard, F. de Gournay & P. Weiss., Journal of Machine Learning for Biomedical Imaging (MELBA), Volume 2 (2023). [PDF](https://hal.science/hal-03777230v2)
 
 - *Spurious minimizers in non uniform Fourier sampling optimization*<br>
 A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal.archives-ouvertes.fr/hal-03212145v3/document)
@@ -41,6 +42,8 @@ A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal
 
 #### Oral presentations
 
+- Torus AI Tasting seminar, June 2023, *Training adaptive reconstruction networks for blind inverse problems*.
+- PhD defence, Toulouse, December 2023, *Learning strategies for computational MRI*.
 - Curves & Surfaces 2022, Arcachon, June 2022, *Spurious minimizers in non uniform Fourier sampling optimization*.
 - SIAM Imaging Science 2022, remote, March 2022, *Learning to sample and reconstruct: computational issues and tricks*.
 - Séminaire doctorant de l'IMT, Toulouse, March 2022, *Globalization approach for sampling scheme optimization in MRI*.
@@ -61,8 +64,3 @@ Opteromys is an association federating people interested in the development of l
 ### Contact
 
 [<img src="https://www.albangossard.com/email.png" width="200" />](https://www.albangossard.com/redirect-mailto.php)
-
-Office 120 - Département de Mathématiques<br />
-INSA Toulouse<br />
-135 avenue de Rangueil<br />
-31400 Toulouse

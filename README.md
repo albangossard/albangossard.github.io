@@ -63,4 +63,4 @@ Opteromys is an association federating people interested in the development of l
 
 ### Contact
 
-@lb@n.p@ul.goss@rd@gmail.com (replace '@' by 'a' at relevant places)
+@lb@n.p@ul.goss@rd@gm@il.com (replace '@' by 'a' at relevant places)

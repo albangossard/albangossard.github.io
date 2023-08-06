@@ -13,7 +13,7 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/albangossard/)
 
 I'm working at GoPro on deep learning and embedded image processing.
-I was previously a PhD student under the supervision of Pierre Weiss and Frédéric de Gournay, working primarly on inverse problems, optimization and neural networks.
+I was previously a PhD student under the supervision of [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/) and [Frédéric de Gournay](http://www.frederic.degournay.fr/), working primarly on inverse problems, optimization and neural networks.
 
 I received a Master of Science in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
 I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling and image processing) in 2019.

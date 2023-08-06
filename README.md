@@ -63,4 +63,4 @@ Opteromys is an association federating people interested in the development of l
 
 ### Contact
 
-[<img src="https://www.albangossard.com/email.png" width="200" />](https://www.albangossard.com/redirect-mailto.php)
+@lb@n.p@ul.goss@rd@gmail.com (replace '@' by 'a' at relevant places)

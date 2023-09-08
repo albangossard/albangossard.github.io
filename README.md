@@ -13,7 +13,7 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/albangossard/)
 
 I'm working at GoPro on deep learning and embedded image processing.
-I was previously a PhD student under the supervision of [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/) and [Frédéric de Gournay](http://www.frederic.degournay.fr/), working primarly on inverse problems, optimization and neural networks.
+I did my PhD at the Toulouse Mathematics Institute under the supervision of [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/) and [Frédéric de Gournay](http://www.frederic.degournay.fr/), working primarly on inverse problems, optimization and neural networks.
 
 I received a Master of Science in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
 I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling and image processing) in 2019.
@@ -42,6 +42,7 @@ A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal
 
 #### Oral presentations
 
+- Applied Inverse Problems (AIP) Conference, Göttingen (Germany), September 2023, *Learning Fourier sampling schemes for MRI by density optimization*.
 - Torus AI Tasting seminar, June 2023, *Training adaptive reconstruction networks for blind inverse problems*.
 - PhD defence, Toulouse, December 2023, *Learning strategies for computational MRI*.
 - Curves & Surfaces 2022, Arcachon, June 2022, *Spurious minimizers in non uniform Fourier sampling optimization*.

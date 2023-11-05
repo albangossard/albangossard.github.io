@@ -65,3 +65,5 @@ Opteromys is an association federating people interested in the development of l
 ### Contact
 
 @lb@n.p@ul.goss@rd@gm@il.com (replace '@' by 'a' at relevant places)
+
+GPG fingerprint: `3D13 BC84 EB50 12F1 B5E1  3F05 5261 7F1C F64F F7BC`

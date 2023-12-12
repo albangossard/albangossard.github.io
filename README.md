@@ -22,13 +22,13 @@ I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling 
 
 #### Preprints
 
-- *Training Adaptive Reconstruction Networks for Blind Inverse Problems*<br>
-A. Gossard & P. Weiss. [PDF](https://hal.science/hal-03585120v4/document)
-
 - *Adaptive scaling of the learning rate by second order automatic differentiation*<br>
 F. de Gournay & A. Gossard. [PDF](https://hal.archives-ouvertes.fr/hal-03748574v2/document)
 
 #### Journal papers
+
+- *Training Adaptive Reconstruction Networks for Blind Inverse Problems*<br>
+A. Gossard & P. Weiss. SIAM Journal on Imaging Sciences. [PDF](https://hal.science/hal-03585120/document)
 
 - *Bayesian Optimization of Sampling Densities in MRI*<br>
 A. Gossard, F. de Gournay & P. Weiss., Journal of Machine Learning for Biomedical Imaging (MELBA), Volume 2 (2023). [PDF](https://hal.science/hal-03777230v2)

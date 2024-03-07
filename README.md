@@ -44,7 +44,7 @@ A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal
 
 - Applied Inverse Problems (AIP) Conference, Göttingen (Germany), September 2023, *Learning Fourier sampling schemes for MRI by density optimization*.
 - Torus AI Tasting seminar, June 2023, *Training adaptive reconstruction networks for blind inverse problems*.
-- PhD defence, Toulouse, December 2023, *Learning strategies for computational MRI*.
+- PhD defence, Toulouse, December 2022, *Learning strategies for computational MRI*.
 - Curves & Surfaces 2022, Arcachon, June 2022, *Spurious minimizers in non uniform Fourier sampling optimization*.
 - SIAM Imaging Science 2022, remote, March 2022, *Learning to sample and reconstruct: computational issues and tricks*.
 - Séminaire doctorant de l'IMT, Toulouse, March 2022, *Globalization approach for sampling scheme optimization in MRI*.

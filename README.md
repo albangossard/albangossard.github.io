@@ -8,14 +8,13 @@
 
 ### About
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alban-gossard/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/alban-gossard/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/albangossard/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/albangossard/)
 
-I'm working at GoPro on deep learning and embedded image processing.
-I did my PhD at the Toulouse Mathematics Institute under the supervision of [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/) and [Frédéric de Gournay](http://www.frederic.degournay.fr/), working primarly on inverse problems, optimization and neural networks.
-
-I received a Master of Science in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
+I'm a postdoctoral researcher at the Institute of Environmental Geosciences (IGE) in Grenoble, working on mountain glacier modelling.
+I used to work in the private sector at GoPro on deep learning and embedded image processing.
+My mathematical background lies at the intersection of numerical methods for PDEs, optimization and machine learning. I did my PhD at the Toulouse Mathematics Institute under the supervision of [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/) and [Frédéric de Gournay](http://www.frederic.degournay.fr/), working primarly on inverse problems, optimization and learning algorithms. Before that I received a Master of Science in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
 I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling and image processing) in 2019.
 
 ### Research
@@ -51,15 +50,6 @@ A. Gossard, F. de Gournay & P. Weiss, Inverse Problems (2022). [PDF](https://hal
 - EUROPT 2021, remote, July 2021, *Continuous optimization of Fourier sampling schemes for MRI*.
 - iTWIST 2020, remote, December 2020, *Off-the-grid data-driven optimization of sampling schemes in MRI*.
 
-
-### Volunteer experience
-
-Involved in the university's fablab [Fabric'INSA](http://www.fabric-insa.fr) since 2017.
-
-Former president of the [Gamma association](https://etud.insa-toulouse.fr/~gamma/)
-
-Recently I co-founded the [Opteromys association](https://opteromys.github.io/).
-Opteromys is an association federating people interested in the development of low carbon emitting technologies for transportation.
 
 
 ### Contact

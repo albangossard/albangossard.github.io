@@ -12,8 +12,12 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/albangossard/)
 
-I'm a postdoctoral researcher at the Institute of Environmental Geosciences (IGE) in Grenoble, working on mountain glacier modelling.
-I used to work in the private sector at GoPro on deep learning and embedded image processing.
+I'm a postdoctoral researcher at the Institute of Environmental Geosciences (IGE) in Grenoble, working on mountain glacier modelling. I work on differentiable programming methods to solve complex modelling problems in glaciology. I actively participate in the develoment of the open source projects [ODINN.jl](https://github.com/ODINN-SciML) and [MassBalanceMachine](https://github.com/ODINN-SciML/MassBalanceMachine).
+
+
+Before switching to geosciences, I used to work in the private sector at GoPro on deep learning and embedded image processing.
+
+
 My mathematical background lies at the intersection of numerical methods for PDEs, optimization and machine learning. I did my PhD at the Toulouse Mathematics Institute under the supervision of [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/) and [Frédéric de Gournay](http://www.frederic.degournay.fr/), working primarly on inverse problems, optimization and learning algorithms. Before that I received a Master of Science in Fundamental Mathematics and Applications (PDE, numerical analysis and optimization track) from Université Paul Sabatier in 2019.
 I also graduated from INSA Toulouse in Applied Mathematics (numerical modelling and image processing) in 2019.
 
